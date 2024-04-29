@@ -5,7 +5,8 @@
 - 📫 How to reach me alihusnainjutt@hotmail.com
 - 😄 Pronouns: Aj
 - ⚡ Fun fact: ...
-  i am average humain who love to enjoy with friends,family and colligues.
+  i am average humain who love to enjoy with friends,family and colleagues.
+  
 <!---
 AliHassnainjutt/AliHassnainjutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
